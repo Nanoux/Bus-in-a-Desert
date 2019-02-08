@@ -5,6 +5,8 @@ I made this game at the request of a friend to make a modern version of Desert B
 
 For this project, I made a custom Bus model, infinite terrain generation system,custom shaders, car control system, graphics settings, and an AI.
 
+WASD to drive if AI isnt on, arrow keys to look around, and F to switch camera modes.
+
 You can turn off the god awful pixelation effect in settings if its on by default for you :P
 
 Heres a gif, I guess Github can't handle those: https://i.imgur.com/Hf9txhU.gifv
