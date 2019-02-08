@@ -7,7 +7,7 @@ For this project, I made a custom Bus model, infinite terrain generation system,
 
 You can turn off the god awful pixelation effect in settings if its on by default for you :P
 
-![alt text](https://i.imgur.com/Hf9txhU.gifv)
+Heres a gif, I guess Github can't handle those: https://i.imgur.com/Hf9txhU.gifv
 ![alt text](https://i.imgur.com/e6tlowE.png)
 ![alt text](https://i.imgur.com/TXuBH5M.png)
 ![alt text](https://imgur.com/MbB9R6W)
