@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e5a7b91efaa58c646acfbf7fddb17ff2
+timeCreated: 1499915063
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Classic Console
+  fontNames:
+  - Classic Console
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

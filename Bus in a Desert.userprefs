@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Leg.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProdceduralLand\TerrainSurfaceShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChaseCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProdceduralLand\TerrainChunk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProdceduralLand\TerrainGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Layers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProdceduralLand\ThreadedDataRequester.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Leg.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
