@@ -1,9 +1,9 @@
 # Bus-in-a-Desert
 Its a bus in a very big desert
 
-I made this game at the request of a friend to make a modern version of Desert Bus, I made this, than the official Desert Bus remaster came out and kind of killed my motivation:P
+I made this game at the request of a friend to make a modern version of Desert Bus, I made this, than the official Desert Bus remaster came out and kind of killed my motivation :P
 
-For this project, I made a custom Bus model, infinite terrain generation system,custom shaders, car control system, graphics settings, and an AI.
+For this project, I made a custom Bus model, infinite terrain generation system,custom shaders, car control system, graphics settings, and an AI. Be careful if you download, old me didn't know how to trim unused assets it seems.
 
 WASD to drive if AI isnt on, arrow keys to look around, and F to switch camera modes.
 
